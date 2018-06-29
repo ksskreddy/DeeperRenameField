@@ -1,7 +1,7 @@
 # DeeperRenameField
 Kafka connect Transform which can rename deep level fields in the schema
 
-#Details
+# Details
    It has two properties to be configured
       1. rename.fieldname -> A dotted String representing full path to field whose name to be changed
       2. rename.newname. -> New Name for the field.
